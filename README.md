@@ -1,2 +1,4 @@
 # hello-world
-just practice
+
+Hi Humans!
+I'm just practicing. Hahaha.
